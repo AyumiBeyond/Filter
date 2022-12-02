@@ -5,3 +5,5 @@ AdBlock_Filter.list
 Anti-ip.list
 # 网易云音乐分流 
 NeteaseMusic.list
+# 网易云音乐解锁节点
+Netease.list
